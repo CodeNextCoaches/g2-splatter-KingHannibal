@@ -10,4 +10,9 @@ body {
   text-align: center;
 }
 
-/* Create your styles below */
+#canvas-area{
+
+	margin:10px auto;
+	width:500px;
+	height:400px;
+}
